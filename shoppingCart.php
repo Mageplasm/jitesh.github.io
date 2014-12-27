@@ -1,7 +1,7 @@
 
 <?php
 
-echo $_POST['hi'];
+echo $_GET['hi'];
  
 
 ?>
